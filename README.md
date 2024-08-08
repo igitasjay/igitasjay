@@ -3,7 +3,7 @@ I am a mobile developer :)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,git,github,androidstudio,vscode" />
   </a>
 </p>
 
