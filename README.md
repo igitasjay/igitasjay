@@ -2,7 +2,7 @@
 I am a mobile developer :)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,git,github,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,nodejs,figma,git,github,androidstudio,vscode" />
 </p>
 
 Find me on social media:
