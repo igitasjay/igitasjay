@@ -1,4 +1,11 @@
 ## Hi there 👋
+I am a mobile developer :)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,git,androidstudio,vscode" />
+  </a>
+</p>
 
 <!--
 **igitasjay/igitasjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
