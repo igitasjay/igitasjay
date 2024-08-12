@@ -2,8 +2,9 @@
 Mobile app developer :)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,nodejs,express,mongodb,figma,git,github,androidstudio,vscode" />
-</p>
+
+<a href="https://github.com/igitasjay"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,nodejs,express,mongodb,figma,git,github,androidstudio,vscode" />
+</p></a>
 
 <b>My GitHub Stats</b>
 
@@ -13,4 +14,4 @@ Mobile app developer :)
 
 <a href="http://www.github.com/igitasjay"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igitasjay&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
