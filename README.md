@@ -5,30 +5,12 @@ I am a mobile developer :)
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,nodejs,express,mongodb,figma,git,github,androidstudio,vscode" />
 </p>
 
-<!-- Find me on social media:
+<b>My GitHub Stats</b>
 
-<p align="center"> --!>
-<!--   <a href="https://www.youtube.com/@tubeasjay"><img alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--   <a href="https://www.instagram.com/igramasjay"><img src="https://skillicons.dev/icons?i=instagram"/></a> -->
-<!--   <a href="https://www.linkedin.com/in/ilinkasjay/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> -->
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--   <a href="https://twitter.com/itweetasjay"><img src="https://skillicons.dev/icons?i=twitter"/></a> -->
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--  </a> -->
-<!-- </p> -->
+<a href="http://www.github.com/igitasjay"><img src="https://github-readme-stats.vercel.app/api?username=igitasjay&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="Big Bro's GitHub stats" /></a>
 
-<!--
-**igitasjay/igitasjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://www.github.com/igitasjay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Byte-Bandit&stroke=ffffff&background=22272e&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-Here are some ideas to get you started:
+<a href="http://www.github.com/igitasjay"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=The-Byte-Bandit&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjayt&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
