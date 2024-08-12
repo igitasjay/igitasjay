@@ -1,5 +1,5 @@
 ## Philemon Justice Chibueze
-I am a mobile developer :)
+Mobile app developer :)
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,nodejs,express,mongodb,figma,git,github,androidstudio,vscode" />
