@@ -16,6 +16,6 @@ Mobile app developer :)
 
 <p align="center"> <a href="https://github.com/igitasjay"><img src="https://github-profile-trophy.vercel.app/?username=igitasjay&theme=discord" alt="Big Bro" /></a> </p>
 
-{<img src="https://wakatime.com/badge/github/igitasjay/flutter-nodejs.svg" alt="wakatime" />}[https://wakatime.com/badge/github/igitasjay/flutter-nodejs]
+<a href="https://wakatime.com/badge/github/igitasjay/flutter-nodejs"><img src="https://wakatime.com/badge/github/igitasjay/flutter-nodejs.svg" alt="wakatime"></a>
 
 <!-- <a href="http://www.github.com/igitasjay"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igitasjay&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> --!>
