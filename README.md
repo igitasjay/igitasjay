@@ -11,7 +11,7 @@ Mobile app developer :)
 
 <a href="http://www.github.com/igitasjay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igitasjay&stroke=ffffff&background=22272e&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%"/></a>
 
-<a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&hide_progress=true&bg_color=22272e&hide_border=true&locale=en&custom_title=Most%20Used%20%Languages" alt="Most Used Languages" align="center" width="100%"/></a>
+<a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&hide_progress=true&bg_color=22272e&hide_border=true&locale=en&custom_title=Most%20Used%20%Languages" alt="Most Used Languages" width="100%"/></a>
 
 <p align="center"> <a href="https://github.com/igitasjay"><img src="https://github-profile-trophy.vercel.app/?username=igitasjay&theme=discord" alt="Big Bro" /></a> </p>
 
