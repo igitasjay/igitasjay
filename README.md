@@ -3,7 +3,7 @@ Mobile app developer :)
 
 <p align="center">
 
-<a href="https://github.com/igitasjay"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,express,python,postgres,mongodb,figma,git,github,androidstudio,vscode" />
+<a href="https://github.com/igitasjay"><img src="https://skillicons.dev/icons?i=flutter,appwrite,firebase,express,postgres,mongodb,figma,git,github,androidstudio,vscode" />
 </a>
 </p>
 
