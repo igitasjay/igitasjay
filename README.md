@@ -17,5 +17,7 @@
 
 <figure><embed src="https://wakatime.com/share/@iwakaasjay/a4143435-ec97-4548-9bf8-4f69c2653bec.svg"></embed></figure> 
 
+<figure><embed src="https://wakatime.com/share/@iwakaasjay/8a8464bf-9f1e-44ca-aeb5-cc2b83cd1b64.svg"></embed></figure>
+
 
 <!-- <a href="http://www.github.com/igitasjay"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igitasjay&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> --!>
