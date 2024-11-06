@@ -13,6 +13,9 @@
 
 <a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&hide_progress=true&bg_color=22272e&hide_border=true&locale=en&custom_title=Most%20Used%20%Languages" alt="Most Used Languages" width="100%"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=igitasjay&color=brightgreen" />
+<a href="mailto:imailasjay@gmail.com"><img src="https://img.shields.io/badge/-Jay-4287f5?style=flat&logo=Gmail&logoColor=white" alt="Mail" />
+
 <!--
 <p align="center"> <a href="https://github.com/igitasjay"><img src="https://github-profile-trophy.vercel.app/?username=igitasjay&theme=discord" alt="Big Bro" /></a> </p>
 
