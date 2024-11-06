@@ -13,6 +13,7 @@
 
 <a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&hide_progress=true&bg_color=22272e&hide_border=true&locale=en&custom_title=Most%20Used%20%Languages" alt="Most Used Languages" width="100%"/></a>
 
+<!--
 <p align="center"> <a href="https://github.com/igitasjay"><img src="https://github-profile-trophy.vercel.app/?username=igitasjay&theme=discord" alt="Big Bro" /></a> </p>
 
 <figure><embed src="https://wakatime.com/share/@iwakaasjay/a4143435-ec97-4548-9bf8-4f69c2653bec.svg"></embed></figure> 
