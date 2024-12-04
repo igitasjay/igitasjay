@@ -17,6 +17,9 @@
 
 <a href="mailto:imailasjay@gmail.com"><img src="https://img.shields.io/badge/-Jay-4287f5?style=flat&logo=Gmail&logoColor=white" alt="Mail" />
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ilinkasjay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ilinkasjay?trk=profile-badge">Chibueze Philemon</a></div>
+              
+
 <!--
 <p align="center"> <a href="https://github.com/igitasjay"><img src="https://github-profile-trophy.vercel.app/?username=igitasjay&theme=discord" alt="Big Bro" /></a> </p>
 
