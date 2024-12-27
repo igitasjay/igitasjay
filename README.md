@@ -19,6 +19,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=igitasjay&color=brightgreen" /> --!>
 
+<!--
 <a href="mailto:imailasjay@gmail.com"><img src="https://img.shields.io/badge/-Jay-4287f5?style=flat&logo=Gmail&logoColor=white" alt="Mail" />
 
               
