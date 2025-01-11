@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/igitasjay"><img src="https://skillicons.dev/icons?i=flutter,firebase,appwrite,nodejs,express,fastapi,postgres,mongodb,figma,git,github,androidstudio,vscode" /></a>
 </p>
-
+ 
  ### My GitHub Stats
 
 <a href="http://www.github.com/igitasjay"><img src="https://github-readme-stats.vercel.app/api?username=igitasjay&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="Big Bro's GitHub stats" width="100%"/></a>
