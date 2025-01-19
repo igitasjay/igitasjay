@@ -22,7 +22,7 @@
 <!--
 <a href="mailto:imailasjay@gmail.com"><img src="https://img.shields.io/badge/-Jay-4287f5?style=flat&logo=Gmail&logoColor=white" alt="Mail" />
 
-              
+               
 
 <!--
 <p align="center"> <a href="https://github.com/igitasjay"><img src="https://github-profile-trophy.vercel.app/?username=igitasjay&theme=discord" alt="Big Bro" /></a> </p>
