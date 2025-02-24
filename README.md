@@ -5,8 +5,23 @@
  ### My Stacks & Tools
  
 <p align="center">
-  <a href="https://github.com/igitasjay"><img src="https://skillicons.dev/icons?i=flutter,firebase,appwrite,nodejs,express,fastapi,postgres,mongodb,figma,git,github,androidstudio,vscode" /></a>
+  <a href="https://github.com/igitasjay">
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+    <img src="https://skillicons.dev/icons?i=appwrite" title="Appwrite" />
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+    <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  </a>
 </p>
+
  
  ### My GitHub Stats
 
