@@ -17,6 +17,7 @@
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
     <img src="https://skillicons.dev/icons?i=git" title="Git" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+   <img src="https://skillicons.dev/icons?i=xcode" title="Xcode" />
     <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   </a>
