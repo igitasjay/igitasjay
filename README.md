@@ -12,12 +12,12 @@
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
     <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
     <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
     <img src="https://skillicons.dev/icons?i=git" title="Git" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-    <img src="https://skillicons.dev/icons?i=x-code" title="Xcode" />
     <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   </a>
