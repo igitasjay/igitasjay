@@ -18,7 +18,6 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
     <img src="https://skillicons.dev/icons?i=apple" title="iOS" />
-   <img src="https://skillicons.dev/icons?i=android" title="Android" />
     <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   </a>
