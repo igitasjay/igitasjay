@@ -33,7 +33,7 @@
 
 <a href="https://github.com/igitasjay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igitasjay&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&hide_progress=true&bg_color=22272e&hide_border=true&locale=en&custom_title=Most%20Used%20%Languages" alt="Most Used Languages" width="100%"/></a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ilinkasjay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ilinkasjay?trk=profile-badge">Justice C. Philemon</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ilinkasjay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ilinkasjay?trk=profile-badge">Justice C. Philemon</a></div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=igitasjay&color=brightgreen" /> --!>
 
