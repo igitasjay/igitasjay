@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
     <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
     <img src="https://skillicons.dev/icons?i=appwrite" title="Appwrite" />
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
     <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
