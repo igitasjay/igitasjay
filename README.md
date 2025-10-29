@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
     <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-    <img src="https://skillicons.dev/icons?i=blackchain" title="Blockchain" />
+    <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" />
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
