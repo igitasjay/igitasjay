@@ -10,6 +10,7 @@
     <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
     <img src="https://skillicons.dev/icons?i=appwrite" title="Appwrite" />
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
     <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
     <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
     <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" />
