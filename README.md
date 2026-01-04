@@ -1,6 +1,6 @@
  # Philemon Justice Chibueze
 
- ## Full stack mobile app engineer : )
+ ## Professonal Full Stack Mobile Engineer : )
 
  ### My Stacks & Tools
  
