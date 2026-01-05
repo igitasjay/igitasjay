@@ -2,7 +2,7 @@
 
  ## Professonal Full Stack Mobile Engineer : )
 
- ### My Stacks & Tools
+ <!-- ### My Stacks & Tools -->
  
 <p align="center">
   <a href="https://github.com/igitasjay">
