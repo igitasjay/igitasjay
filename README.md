@@ -25,7 +25,15 @@
   </a>
 </p>
 
- 
+ <div align="center">
+  <a href="https://commit-history.com/igitasjay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/igitasjay?theme=dark" />
+      <img alt="igitasjay's commit history" src="https://commit-history.com/embed/igitasjay" />
+    </picture>
+  </a>
+</div>
+
 <!-- ### My GitHub Stats
 
 <a href="http://www.github.com/igitasjay"><img src="https://github-readme-stats.vercel.app/api?username=igitasjay&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="Big Bro's GitHub stats" width="100%"/></a>
