@@ -1,8 +1,18 @@
  # Philemon Justice Chibueze
 
  ## Professonal Full Stack Mobile Engineer
+
   
- <!-- ### My Stacks & Tools -->
+ <div align="center">
+  <a href="https://commit-history.com/igitasjay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/igitasjay?theme=dark" />
+      <img alt="igitasjay's commit history" src="https://commit-history.com/embed/igitasjay" />
+    </picture>
+  </a>
+</div>
+  
+ <!-- ### My Stacks & Tools 
  
 <p align="center">
   <a href="https://github.com/igitasjay">
@@ -25,14 +35,6 @@
   </a>
 </p>
 
- <div align="center">
-  <a href="https://commit-history.com/igitasjay">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/igitasjay?theme=dark" />
-      <img alt="igitasjay's commit history" src="https://commit-history.com/embed/igitasjay" />
-    </picture>
-  </a>
-</div>
 
 <!-- ### My GitHub Stats
 
